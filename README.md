@@ -9,7 +9,7 @@
  
  Run $ npm start to start the development server.
 
- Open your browser and visit http://localhost:3000 to see the the website.
+ Open your browser and visit http://localhost:3000 to see the website.
 
 
 # To run the unit tests:
