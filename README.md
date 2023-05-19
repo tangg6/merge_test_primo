@@ -5,7 +5,7 @@
 
  Open a terminal and navigate to the project directory.
 
- Run $ npm i to install package.
+ Run $ npm i to install project dependencies.
  
  Run $ npm start to start the development server.
 
